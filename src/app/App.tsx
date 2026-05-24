@@ -128,7 +128,7 @@ export default function App() {
             <p>📱 0695718424</p>
           </div>
 
-          {/* Ton nouveau composant avec ton style et la logique Formspree */}
+          
           <Contact styles={styles} />
 
         </section>
